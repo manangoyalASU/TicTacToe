@@ -1,0 +1,2 @@
+module manan.util.com {
+}
